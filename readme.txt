@@ -5,7 +5,7 @@ Requires at least: 3.1
 Tested up to: 3.5
 Stable tag: 0.1
 
-Interactive posts is a new plugin allowing users to create basic quizzes, questions and interactions as part of a WordPress site.
+Interactive posts allows users to create basic quizzes, questions and interactions.
 
 == Description ==
 
@@ -28,5 +28,3 @@ No Questions have been asked yet. Please see http://www.pgogy.com/code/groups/wo
 2. Choosing an interaction type
 3. Options for the type
 4. creating part of an interactive post
-
-== Changelog ==
