@@ -13,6 +13,8 @@ Interactive posts is a new plugin allowing users to create basic quizzes, questi
 
 For support please visit http://www.pgogy.com and http://www.pgogy.com/code/groups/wordpress/interactive-posts/
 
+[vimeo https://vimeo.com/60035854]
+
 == Installation ==
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
@@ -28,3 +30,13 @@ No Questions have been asked yet. Please see http://www.pgogy.com/code/groups/wo
 2. Choosing an interaction type
 3. Options for the type
 4. creating part of an interactive post
+
+
+== Upgrade Notice ==
+
+First install so no upgrade required
+
+== Changelog ==
+
+=0.1= 
+First version of plugin
